@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+background-color: rgb(21, 158, 112);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  background-color: blue;
+  font-size: 20px;
+}
+ #MeuSite {
+     background-color: antiquewhite;
+     text-align: center;
+     font-size:  50px;
+ }
+h2 {
+color: #ffebcd;
+font-size: 15px;
+
+}
+section {
+    text-align: center;
+    font-size: 100px;
+}
+aside {
+    font-size:  15px;
+}
